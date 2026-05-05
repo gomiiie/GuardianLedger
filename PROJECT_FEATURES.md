@@ -1,5 +1,9 @@
 feature/T1
 # Implemented Features
+## T-3: Implemented Voice Command
+This task involves creating a voice command module, including validation and error handling.
+**Status: VC Implemented**
+
 ## T-5: Implemented User Signin Page
 This task involves creating a signin form component with email and password fields, including validation and error handling.
 **Status: SignIn Implemented**
